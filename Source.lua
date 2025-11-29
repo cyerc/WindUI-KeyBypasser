@@ -32,3 +32,4 @@ end
 
 setupvalue(Function, 4, true)
 KeySystem:Destroy()
+print('Bypassed Key system')
